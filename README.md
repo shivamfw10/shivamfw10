@@ -28,4 +28,8 @@ I have completed my Diploma in Computer Science & Engineering. Currently, I'm le
 <hr/>
 - 📫 How to reach me: vishvashivam32@gmail.com.
 <br/>
-<a href=”https://www.linkedin.com/in/shivamvishvakarma/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"/></a>
+
+
+ <p align="left">
+<a href="https://www.linkedin.com/in/shivamvishvakarma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamvishvakarma/" height="30" width="40" /></a>
+</p>
