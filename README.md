@@ -25,4 +25,7 @@ I have completed my Diploma in Computer Science & Engineering. Currently, I'm le
 <p>
   </p>
 <img src="https://github-readme-stats.vercel.app/api?username=shivamfw10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-- 📫 How to reach me:  vishvashivam32@gmail.com.
+<hr/>
+- 📫 How to reach me: vishvashivam32@gmail.com.
+<br/>
+<a href=”https://www.linkedin.com/in/shivamvishvakarma/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"/></a>
